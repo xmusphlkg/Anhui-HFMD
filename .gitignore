@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Private surveillance source data. Do not commit individual-level AHCDC
+# records or derived record-level extracts to the public repository.
+data/
+*.RData
+
+# Local logs and temporary outputs
+*.log
+article
+/manuscript
