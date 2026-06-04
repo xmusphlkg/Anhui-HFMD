@@ -57,7 +57,19 @@ render_md_table <- function(df) {
 }
 
 fmt_p <- function(x) {
-  ifelse(is.na(x), "", ifelse(x < 0.001, "<0.001", sprintf("%.3f", x)))
+  ifelse(
+    is.na(x),
+    "",
+    ifelse(
+      x < 0.001,
+      "<.001",
+      ifelse(
+        x > 0.99,
+        ">.99",
+        sub("^0", "", ifelse(x < 0.01, sprintf("%.3f", x), sprintf("%.2f", x)))
+      )
+    )
+  )
 }
 
 fmt_num <- function(x, digits = 0) {
@@ -137,8 +149,8 @@ build_table_s3 <- function() {
   readxl::read_excel(file.path(repo_root, "outcome", "tableS2 moran.xlsx")) %>%
     transmute(
       Year = year,
-      `Moran's I` = fmt_num(moran_i, 3),
-      `Z score` = fmt_num(z_score, 3),
+      `Moran's I` = fmt_num(moran_i, 2),
+      `Z score` = fmt_num(z_score, 2),
       `P value` = fmt_p(p_value)
     )
 }
@@ -250,11 +262,11 @@ build_table_s8 <- function() {
     transmute(
       Outcome = outcome,
       Term = term,
-      Estimate = fmt_num(estimate, 3),
-      `Standard error` = fmt_num(std_error, 3),
-      RR = fmt_num(rr, 3),
-      `RR LCL` = fmt_num(rr_lcl, 3),
-      `RR UCL` = fmt_num(rr_ucl, 3)
+      Estimate = fmt_num(estimate, 2),
+      `Standard error` = fmt_num(std_error, 2),
+      RR = fmt_num(rr, 2),
+      `RR LCL` = fmt_num(rr_lcl, 2),
+      `RR UCL` = fmt_num(rr_ucl, 2)
     )
 }
 

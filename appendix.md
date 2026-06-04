@@ -1,63 +1,63 @@
-<div style="height: 88vh; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
-  <div style="font-size: 1.8em; font-weight: 700; margin-bottom: 1.2em;">Supplementary Appendix</div>
-  <div style="font-size: 1.2em; font-weight: 600; line-height: 1.5; max-width: 900px;">
-    Hand, Foot, and Mouth Disease Surveillance in Anhui, China After Enterovirus 71 Vaccine Introduction and During COVID-19: Ecological Interrupted Time-Series Study
-  </div>
-  <div style="margin-top: 2.5em; font-size: 1.05em;">Kangguo Li et al.</div>
-</div>
-
-<div style="page-break-after: always;"></div>
-
-![Supplementary Fig. S1](outcome/figS1.png)
-
-**Figure S1. Seasonal patterns of HFMD incidence across prefecture-level cities in Anhui Province, 2008-2023.**
-
-<div style="page-break-after: always;"></div>
-
-![Supplementary Fig. S2](outcome/figS2.png)
-
-**Figure S2. Global wavelet power spectrum of reported HFMD cases in Anhui Province.**
-
-<div style="page-break-after: always;"></div>
-
-![Supplementary Fig. S3](outcome/figS3.png)
-
-**Figure S3. Period-stratified incidence maps of reported HFMD in Anhui Province.**
-
-<div style="page-break-after: always;"></div>
-
-![Supplementary Fig. S4](outcome/figS4.png)
-
-**Figure S4. Yearly spatiotemporal scan relative-risk maps for HFMD clusters in Anhui Province.**
-
-<div style="page-break-after: always;"></div>
-
-![Supplementary Fig. S5](outcome/figS5_severe_proportion_its.png)
-
-**Figure S5. Binomial ITS counterfactual analysis of severe HFMD proportion.**
-
-<div style="page-break-after: always;"></div>
-
-![Supplementary Fig. S6](outcome/figS6_age_shift.png)
-
-**Figure S6. Annual age composition of reported HFMD cases with known age.**
-
-<div style="page-break-after: always;"></div>
-
-![Supplementary Fig. S7](outcome/figS7_typed_secondary_counterfactual.png)
-
-**Figure S7. Counterfactual trajectories for typed CV-A16 and typed other-enterovirus series in the vaccine-era and COVID-19-period models.**
-
-<div style="page-break-after: always;"></div>
-
-![Supplementary Fig. S8](outcome/figS8_county_typed_dominance_maps.png)
-
-**Figure S8. County-level typed-serotype dominance maps after masking sparse observations, Anhui Province, 2008-2023. Colors match Figure 3; gray indicates county-year observations with typed n<10. Dominance indicates the largest typed category within a county-year and should not be interpreted as a large margin between categories.**
-
-<div style="page-break-after: always;"></div>
-
-**Table S1. Annual epidemiologic and demographic characteristics of HFMD in Anhui Province, 2010-2023**
-
+<div style="height: 88vh; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
+  <div style="font-size: 1.8em; font-weight: 700; margin-bottom: 1.2em;">Supplementary Appendix</div>
+  <div style="font-size: 1.2em; font-weight: 600; line-height: 1.5; max-width: 900px;">
+    Hand, Foot, and Mouth Disease Surveillance in Anhui, China After Enterovirus 71 Vaccine Introduction and During COVID-19: Ecological Interrupted Time-Series Study
+  </div>
+  <div style="margin-top: 2.5em; font-size: 1.05em;">Kangguo Li et al.</div>
+</div>
+
+<div style="page-break-after: always;"></div>
+
+![Supplementary Fig. S1](outcome/figS1.png)
+
+**Figure S1. Seasonal patterns of HFMD incidence across prefecture-level cities in Anhui Province, 2008-2023.**
+
+<div style="page-break-after: always;"></div>
+
+![Supplementary Fig. S2](outcome/figS2.png)
+
+**Figure S2. Global wavelet power spectrum of reported HFMD cases in Anhui Province.**
+
+<div style="page-break-after: always;"></div>
+
+![Supplementary Fig. S3](outcome/figS3.png)
+
+**Figure S3. Period-stratified incidence maps of reported HFMD in Anhui Province.**
+
+<div style="page-break-after: always;"></div>
+
+![Supplementary Fig. S4](outcome/figS4.png)
+
+**Figure S4. Yearly spatiotemporal scan relative-risk maps for HFMD clusters in Anhui Province.**
+
+<div style="page-break-after: always;"></div>
+
+![Supplementary Fig. S5](outcome/figS5_severe_proportion_its.png)
+
+**Figure S5. Binomial ITS counterfactual analysis of severe HFMD proportion.**
+
+<div style="page-break-after: always;"></div>
+
+![Supplementary Fig. S6](outcome/figS6_age_shift.png)
+
+**Figure S6. Annual age composition of reported HFMD cases with known age.**
+
+<div style="page-break-after: always;"></div>
+
+![Supplementary Fig. S7](outcome/figS7_typed_secondary_counterfactual.png)
+
+**Figure S7. Counterfactual trajectories for typed CV-A16 and typed other-enterovirus series in the vaccine-era and COVID-19-period models.**
+
+<div style="page-break-after: always;"></div>
+
+![Supplementary Fig. S8](outcome/figS8_county_typed_dominance_maps.png)
+
+**Figure S8. County-level typed-serotype dominance maps after masking sparse observations, Anhui Province, 2008-2023. Colors match Figure 3; gray indicates county-year observations with typed n<10. Dominance indicates the largest typed category within a county-year and should not be interpreted as a large margin between categories.**
+
+<div style="page-break-after: always;"></div>
+
+**Table S1. Annual epidemiologic and demographic characteristics of HFMD in Anhui Province, 2010-2023**
+
 | Characteristic | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Total | 84323(100%) | 82739(100%) | 105554(100%) | 90447(100%) | 145528(100%) | 92572(100%) | 138493(100%) | 80344(100%) | 115029(100%) | 70759(100%) | 52712(100%) | 53122(100%) | 28385(100%) | 70288(100%) |
@@ -78,70 +78,70 @@
 | Total | 2229(100%) | 2403(100%) | 2542(100%) | 2692(100%) | 3268(100%) | 2770(100%) | 3664(100%) | 2885(100%) | 4112(100%) | 3919(100%) | 4429(100%) | 4323(100%) | 2294(100%) | 5884(100%) |
 | EV71 | 1166(52.31%) | 1634(68.00%) | 1059(41.66%) | 1497(55.61%) | 1405(42.99%) | 532(19.21%) | 1266(34.55%) | 470(16.29%) | 181(4.40%) | 63(1.61%) | 87(1.96%) | 72(1.67%) | 106(4.62%) | 313(5.32%) |
 | CV-A16 | 681(30.55%) | 398(16.56%) | 870(34.23%) | 177(6.58%) | 1092(33.41%) | 763(27.55%) | 900(24.56%) | 670(23.22%) | 999(24.29%) | 1653(42.18%) | 220(4.97%) | 1123(25.98%) | 776(33.83%) | 385(6.54%) |
-| Others | 382(17.14%) | 371(15.44%) | 613(24.11%) | 1018(37.82%) | 771(23.59%) | 1475(53.25%) | 1498(40.88%) | 1745(60.49%) | 2932(71.30%) | 2203(56.21%) | 4122(93.07%) | 3128(72.36%) | 1412(61.55%) | 5186(88.14%) |
-
-Note: Due to rounding, the sum of percentages may not exactly equal 100%. To ensure the total is 100%, the rounding discrepancy (within 0.1 percentage points) was adjusted to the category with the largest proportion. This adjustment does not affect interpretation. Table S1 begins in 2010 for presentation consistency because etiological records in 2008-2009 were sparse and unstable for annual virus-composition tabulation. The overall study period analyzed in the manuscript remained 2008-2023.
-
-<div style="page-break-after: always;"></div>
-
-**Table S2. Spatiotemporal cluster detection summary**
-
+| Others | 382(17.14%) | 371(15.44%) | 613(24.11%) | 1018(37.82%) | 771(23.59%) | 1475(53.25%) | 1498(40.88%) | 1745(60.49%) | 2932(71.30%) | 2203(56.21%) | 4122(93.07%) | 3128(72.36%) | 1412(61.55%) | 5186(88.14%) |
+
+Note: Due to rounding, the sum of percentages may not exactly equal 100%. To ensure the total is 100%, the rounding discrepancy (within 0.1 percentage points) was adjusted to the category with the largest proportion. This adjustment does not affect interpretation. Table S1 begins in 2010 for presentation consistency because etiological records in 2008-2009 were sparse and unstable for annual virus-composition tabulation. The overall study period analyzed in the manuscript remained 2008-2023.
+
+<div style="page-break-after: always;"></div>
+
+**Table S2. Spatiotemporal cluster detection summary**
+
 | Name | Radius | Start date | End date | P value | Observed | Expected | Relative risk | Year | LLR |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Huangshan | 85.99 | 2009/4/1 | 2009/6/30 | <0.001 | 4585 | 2173.35 | 2.11 | 2009 | 1013.41 |
-| Ma'anshan | 108.75 | 2010/4/1 | 2010/6/30 | <0.001 | 6864 | 2529.56 | 2.72 | 2010 | 2524.85 |
-| Wuhu | 108.11 | 2010/4/1 | 2010/6/30 | <0.001 | 2614 | 1658.98 | 1.58 | 2010 | 233.87 |
-| Bengbu | 85.99 | 2011/5/1 | 2011/7/31 | <0.001 | 7531 | 2908.28 | 2.60 | 2011 | 2551.11 |
-| Wuhu | 108.11 | 2011/5/1 | 2011/7/31 | <0.001 | 3656 | 1640.59 | 2.23 | 2011 | 915.78 |
-| Ma'anshan | 108.75 | 2012/4/1 | 2012/6/30 | <0.001 | 11585 | 2444.12 | 4.77 | 2012 | 8918.33 |
-| Wuhu | 108.11 | 2012/5/1 | 2012/6/30 | <0.001 | 2161 | 1091.44 | 1.98 | 2012 | 407.00 |
-| Wuhu | 108.11 | 2013/4/1 | 2013/6/30 | <0.001 | 3029 | 1635.02 | 1.85 | 2013 | 474.39 |
-| Huangshan | 85.99 | 2014/4/1 | 2014/10/31 | <0.001 | 18324 | 5195.25 | 3.56 | 2014 | 10035.66 |
-| Wuhu | 108.11 | 2014/9/1 | 2014/11/30 | <0.001 | 2674 | 1644.51 | 1.63 | 2014 | 270.84 |
-| Bengbu | 85.99 | 2015/4/1 | 2015/6/30 | <0.001 | 8393 | 2967.13 | 2.84 | 2015 | 3312.70 |
-| Wuhu | 108.11 | 2015/4/1 | 2015/6/30 | <0.001 | 4918 | 1658.78 | 2.97 | 2015 | 2089.89 |
-| Huangshan | 85.99 | 2016/4/1 | 2016/11/30 | <0.001 | 15812 | 6044.12 | 2.64 | 2016 | 5475.67 |
-| Wuhu | 108.11 | 2016/5/1 | 2016/6/30 | <0.001 | 1805 | 1116.78 | 1.62 | 2016 | 178.56 |
-| Ma'anshan | 70.61 | 2017/10/1 | 2017/11/30 | 0.548 | 1378 | 1240.25 | 1.11 | 2017 | 7.39 |
-| Huaibei | 42.22 | 2018/4/1 | 2018/6/30 | <0.001 | 8425 | 1839.72 | 4.60 | 2018 | 6251.04 |
-| Wuhu | 108.11 | 2018/5/1 | 2018/7/31 | <0.001 | 5128 | 1720.46 | 2.99 | 2018 | 2197.39 |
-| Wuhu | 108.11 | 2019/5/1 | 2019/6/30 | <0.001 | 3313 | 1149.54 | 2.89 | 2019 | 1345.14 |
-| Bengbu | 85.99 | 2019/5/1 | 2019/7/31 | <0.001 | 5479 | 3117.63 | 1.76 | 2019 | 730.14 |
-| Wuhu | 108.11 | 2020/10/1 | 2020/12/31 | <0.001 | 4030 | 1644.26 | 2.46 | 2020 | 1229.28 |
-| Ma'anshan | 70.61 | 2020/10/1 | 2020/12/31 | <0.001 | 4206 | 1798.92 | 2.34 | 2020 | 1167.45 |
-| Chuzhou | 45.66 | 2020/10/1 | 2020/11/30 | <0.001 | 4140 | 1781.28 | 2.33 | 2020 | 1134.97 |
-| Bengbu | 85.99 | 2021/5/1 | 2021/6/30 | <0.001 | 2391 | 1917.73 | 1.25 | 2021 | 54.20 |
-| Wuhu | 108.11 | 2023/6/1 | 2023/7/31 | <0.001 | 4847 | 1109.36 | 4.38 | 2023 | 3415.10 |
-| Chuzhou | 45.66 | 2023/7/1 | 2023/8/31 | <0.001 | 5051 | 1814.19 | 2.79 | 2023 | 1939.24 |
-| Huangshan | 85.99 | 2023/7/1 | 2023/8/31 | <0.001 | 2983 | 1447.89 | 2.06 | 2023 | 621.99 |
-
-<div style="page-break-after: always;"></div>
-
-**Table S3. Annual global spatial autocorrelation (Moran's I)**
-
+| Huangshan | 85.99 | 2009/4/1 | 2009/6/30 | <.001 | 4585 | 2173.35 | 2.11 | 2009 | 1013.41 |
+| Ma'anshan | 108.75 | 2010/4/1 | 2010/6/30 | <.001 | 6864 | 2529.56 | 2.72 | 2010 | 2524.85 |
+| Wuhu | 108.11 | 2010/4/1 | 2010/6/30 | <.001 | 2614 | 1658.98 | 1.58 | 2010 | 233.87 |
+| Bengbu | 85.99 | 2011/5/1 | 2011/7/31 | <.001 | 7531 | 2908.28 | 2.60 | 2011 | 2551.11 |
+| Wuhu | 108.11 | 2011/5/1 | 2011/7/31 | <.001 | 3656 | 1640.59 | 2.23 | 2011 | 915.78 |
+| Ma'anshan | 108.75 | 2012/4/1 | 2012/6/30 | <.001 | 11585 | 2444.12 | 4.77 | 2012 | 8918.33 |
+| Wuhu | 108.11 | 2012/5/1 | 2012/6/30 | <.001 | 2161 | 1091.44 | 1.98 | 2012 | 407.00 |
+| Wuhu | 108.11 | 2013/4/1 | 2013/6/30 | <.001 | 3029 | 1635.02 | 1.85 | 2013 | 474.39 |
+| Huangshan | 85.99 | 2014/4/1 | 2014/10/31 | <.001 | 18324 | 5195.25 | 3.56 | 2014 | 10035.66 |
+| Wuhu | 108.11 | 2014/9/1 | 2014/11/30 | <.001 | 2674 | 1644.51 | 1.63 | 2014 | 270.84 |
+| Bengbu | 85.99 | 2015/4/1 | 2015/6/30 | <.001 | 8393 | 2967.13 | 2.84 | 2015 | 3312.70 |
+| Wuhu | 108.11 | 2015/4/1 | 2015/6/30 | <.001 | 4918 | 1658.78 | 2.97 | 2015 | 2089.89 |
+| Huangshan | 85.99 | 2016/4/1 | 2016/11/30 | <.001 | 15812 | 6044.12 | 2.64 | 2016 | 5475.67 |
+| Wuhu | 108.11 | 2016/5/1 | 2016/6/30 | <.001 | 1805 | 1116.78 | 1.62 | 2016 | 178.56 |
+| Ma'anshan | 70.61 | 2017/10/1 | 2017/11/30 | .55 | 1378 | 1240.25 | 1.11 | 2017 | 7.39 |
+| Huaibei | 42.22 | 2018/4/1 | 2018/6/30 | <.001 | 8425 | 1839.72 | 4.60 | 2018 | 6251.04 |
+| Wuhu | 108.11 | 2018/5/1 | 2018/7/31 | <.001 | 5128 | 1720.46 | 2.99 | 2018 | 2197.39 |
+| Wuhu | 108.11 | 2019/5/1 | 2019/6/30 | <.001 | 3313 | 1149.54 | 2.89 | 2019 | 1345.14 |
+| Bengbu | 85.99 | 2019/5/1 | 2019/7/31 | <.001 | 5479 | 3117.63 | 1.76 | 2019 | 730.14 |
+| Wuhu | 108.11 | 2020/10/1 | 2020/12/31 | <.001 | 4030 | 1644.26 | 2.46 | 2020 | 1229.28 |
+| Ma'anshan | 70.61 | 2020/10/1 | 2020/12/31 | <.001 | 4206 | 1798.92 | 2.34 | 2020 | 1167.45 |
+| Chuzhou | 45.66 | 2020/10/1 | 2020/11/30 | <.001 | 4140 | 1781.28 | 2.33 | 2020 | 1134.97 |
+| Bengbu | 85.99 | 2021/5/1 | 2021/6/30 | <.001 | 2391 | 1917.73 | 1.25 | 2021 | 54.20 |
+| Wuhu | 108.11 | 2023/6/1 | 2023/7/31 | <.001 | 4847 | 1109.36 | 4.38 | 2023 | 3415.10 |
+| Chuzhou | 45.66 | 2023/7/1 | 2023/8/31 | <.001 | 5051 | 1814.19 | 2.79 | 2023 | 1939.24 |
+| Huangshan | 85.99 | 2023/7/1 | 2023/8/31 | <.001 | 2983 | 1447.89 | 2.06 | 2023 | 621.99 |
+
+<div style="page-break-after: always;"></div>
+
+**Table S3. Annual global spatial autocorrelation (Moran's I)**
+
 | Year | Moran's I | Z score | P value |
 | --- | --- | --- | --- |
-| 2008 | 0.433 | 3.491 | <0.001 |
-| 2009 | -0.269 | -1.287 | 0.901 |
-| 2010 | 0.015 | 0.639 | 0.262 |
-| 2011 | -0.210 | -0.964 | 0.832 |
-| 2012 | 0.113 | 1.261 | 0.104 |
-| 2013 | -0.011 | 0.409 | 0.341 |
-| 2014 | -0.165 | -0.629 | 0.735 |
-| 2015 | -0.064 | 0.018 | 0.493 |
-| 2016 | 0.378 | 2.873 | 0.002 |
-| 2017 | 0.046 | 0.714 | 0.238 |
-| 2018 | -0.072 | -0.032 | 0.513 |
-| 2019 | 0.144 | 1.358 | 0.087 |
-| 2020 | 0.123 | 1.417 | 0.078 |
-| 2021 | 0.263 | 2.156 | 0.016 |
-| 2022 | 0.007 | 0.501 | 0.308 |
-| 2023 | 0.013 | 0.535 | 0.296 |
-
-<div style="page-break-after: always;"></div>
-
-**Table S4. Annual observed versus counterfactual totals and 95% prediction intervals for ITS models**
-
+| 2008 | 0.43 | 3.49 | <.001 |
+| 2009 | -0.27 | -1.29 | .90 |
+| 2010 | 0.01 | 0.64 | .26 |
+| 2011 | -0.21 | -0.96 | .83 |
+| 2012 | 0.11 | 1.26 | .10 |
+| 2013 | -0.01 | 0.41 | .34 |
+| 2014 | -0.16 | -0.63 | .74 |
+| 2015 | -0.06 | 0.02 | .49 |
+| 2016 | 0.38 | 2.87 | .002 |
+| 2017 | 0.05 | 0.71 | .24 |
+| 2018 | -0.07 | -0.03 | .51 |
+| 2019 | 0.14 | 1.36 | .09 |
+| 2020 | 0.12 | 1.42 | .08 |
+| 2021 | 0.26 | 2.16 | .02 |
+| 2022 | 0.01 | 0.50 | .31 |
+| 2023 | 0.01 | 0.54 | .30 |
+
+<div style="page-break-after: always;"></div>
+
+**Table S4. Annual observed versus counterfactual totals and 95% prediction intervals for ITS models**
+
 | Model | Period | Year | Actual cases | Predicted cases | Lower 95% PI | Upper 95% PI | Difference | Percent change (%) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | All reported HFMD (Vaccine-era) | 2017-2019 | 2017 | 80344 | 104712 | 84388 | 129080 | -24368 | -23.27 |
@@ -171,12 +171,12 @@ Note: Due to rounding, the sum of percentages may not exactly equal 100%. To ens
 | Typed other enteroviruses (COVID-19-period) | 2020-2023 | 2020 | 4122 | 5512 | 3482 | 8156 | -1390 | -25.22 |
 | Typed other enteroviruses (COVID-19-period) | 2020-2023 | 2021 | 3128 | 7507 | 4864 | 11503 | -4379 | -58.33 |
 | Typed other enteroviruses (COVID-19-period) | 2020-2023 | 2022 | 1412 | 10224 | 6604 | 15851 | -8812 | -86.19 |
-| Typed other enteroviruses (COVID-19-period) | 2020-2023 | 2023 | 5186 | 13924 | 9215 | 21396 | -8738 | -62.76 |
-
-<div style="page-break-after: always;"></div>
-
-**Table S5. Annual reported HFMD cases, typed cases, typing fractions, and typed serotype composition in Anhui Province, 2008-2023**
-
+| Typed other enteroviruses (COVID-19-period) | 2020-2023 | 2023 | 5186 | 13924 | 9215 | 21396 | -8738 | -62.76 |
+
+<div style="page-break-after: always;"></div>
+
+**Table S5. Annual reported HFMD cases, typed cases, typing fractions, and typed serotype composition in Anhui Province, 2008-2023**
+
 | Year | Reported cases | Records with serotype field | Typed cases | EV71 typed cases | CV-A16 typed cases | Other typed cases | Typed fraction (%) | EV71 share (%) | CV-A16 share (%) | Other share (%) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2008 | 26359 | 76 | 76 | 69 | 0 | 7 | 0.29 | 90.79 | 0.00 | 9.21 |
@@ -194,12 +194,12 @@ Note: Due to rounding, the sum of percentages may not exactly equal 100%. To ens
 | 2020 | 52712 | 4429 | 4429 | 87 | 220 | 4122 | 8.40 | 1.96 | 4.97 | 93.07 |
 | 2021 | 53122 | 4323 | 4323 | 72 | 1123 | 3128 | 8.14 | 1.67 | 25.98 | 72.36 |
 | 2022 | 28385 | 2294 | 2294 | 106 | 776 | 1412 | 8.08 | 4.62 | 33.83 | 61.55 |
-| 2023 | 70288 | 5884 | 5884 | 313 | 385 | 5186 | 8.37 | 5.32 | 6.54 | 88.14 |
-
-<div style="page-break-after: always;"></div>
-
-**Table S6. Annual severe-proportion summaries from the exploratory severe-case ITS models**
-
+| 2023 | 70288 | 5884 | 5884 | 313 | 385 | 5186 | 8.37 | 5.32 | 6.54 | 88.14 |
+
+<div style="page-break-after: always;"></div>
+
+**Table S6. Annual severe-proportion summaries from the exploratory severe-case ITS models**
+
 | Scenario | Period | Year | Actual severe cases | Actual total cases | Observed severe proportion | Expected severe proportion | Expected proportion LCL | Expected proportion UCL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EV71 vaccine | 2017-2019 | 2017 | 155 | 80344 | 0.001929 | 0.009499 | 0.007295 | 0.012386 |
@@ -208,12 +208,12 @@ Note: Due to rounding, the sum of percentages may not exactly equal 100%. To ens
 | COVID-19 | 2020-2023 | 2020 | 3 | 52712 | 0.000057 | 0.001298 | 0.001102 | 0.001531 |
 | COVID-19 | 2020-2023 | 2021 | 8 | 53122 | 0.000151 | 0.001167 | 0.000985 | 0.001386 |
 | COVID-19 | 2020-2023 | 2022 | 3 | 28385 | 0.000106 | 0.001050 | 0.000880 | 0.001255 |
-| COVID-19 | 2020-2023 | 2023 | 11 | 70288 | 0.000156 | 0.000944 | 0.000785 | 0.001137 |
-
-<div style="page-break-after: always;"></div>
-
-**Table S7. Annual severe cases, deaths, and case-fatality summaries**
-
+| COVID-19 | 2020-2023 | 2023 | 11 | 70288 | 0.000156 | 0.000944 | 0.000785 | 0.001137 |
+
+<div style="page-break-after: always;"></div>
+
+**Table S7. Annual severe cases, deaths, and case-fatality summaries**
+
 | Year | Reported cases | Severe cases | Deaths | Deaths per 100,000 reported cases |
 | --- | --- | --- | --- | --- |
 | 2008 | 26359 | 33 | 26 | 98.64 |
@@ -232,33 +232,33 @@ Note: Due to rounding, the sum of percentages may not exactly equal 100%. To ens
 | 2021 | 53122 | 8 | 0 | 0.00 |
 | 2022 | 28385 | 3 | 0 | 0.00 |
 | 2023 | 70288 | 11 | 0 | 0.00 |
-| 2008-2023 | 1292579 | 3064 | 123 | 9.52 |
-
-Note: Deaths were identified from nonmissing death dates in the surveillance extract. Follow-up information on neurological sequelae was not available in the extract.
-
-<div style="page-break-after: always;"></div>
-
-**Table S8. Multinomial regression of typed serotype composition adjusted for year, sex, age group, and severity**
-
+| 2008-2023 | 1292579 | 3064 | 123 | 9.52 |
+
+Note: Deaths were identified from nonmissing death dates in the surveillance extract. Follow-up information on neurological sequelae was not available in the extract.
+
+<div style="page-break-after: always;"></div>
+
+**Table S8. Multinomial regression of typed serotype composition adjusted for year, sex, age group, and severity**
+
 | Outcome | Term | Estimate | Standard error | RR | RR LCL | RR UCL |
 | --- | --- | --- | --- | --- | --- | --- |
-| EV71 | Intercept | 1.930 | 0.043 | 6.892 | 6.333 | 7.499 |
-| EV71 | Year | -0.403 | 0.004 | 0.668 | 0.662 | 0.674 |
-| EV71 | Male (vs female) | 0.009 | 0.029 | 1.009 | 0.953 | 1.068 |
-| EV71 | Age 2-3 years (vs <1 year) | 0.346 | 0.032 | 1.413 | 1.327 | 1.505 |
-| EV71 | Age 4+ years (vs <1 year) | 0.732 | 0.039 | 2.079 | 1.927 | 2.242 |
-| EV71 | Severe (vs mild) | 1.957 | 0.083 | 7.080 | 6.014 | 8.337 |
-| CV-A16 | Intercept | 0.395 | 0.040 | 1.484 | 1.372 | 1.606 |
-| CV-A16 | Year | -0.176 | 0.003 | 0.839 | 0.833 | 0.844 |
-| CV-A16 | Male (vs female) | -0.053 | 0.024 | 0.948 | 0.904 | 0.995 |
-| CV-A16 | Age 2-3 years (vs <1 year) | 0.505 | 0.028 | 1.657 | 1.568 | 1.751 |
-| CV-A16 | Age 4+ years (vs <1 year) | 0.972 | 0.032 | 2.642 | 2.483 | 2.811 |
-| CV-A16 | Severe (vs mild) | -0.685 | 0.144 | 0.504 | 0.380 | 0.668 |
-
-<div style="page-break-after: always;"></div>
-
-**Table S9. Vaccine-era training-window sensitivity for ITS counterfactual summaries**
-
+| EV71 | Intercept | 1.93 | 0.04 | 6.89 | 6.33 | 7.50 |
+| EV71 | Year | -0.40 | 0.00 | 0.67 | 0.66 | 0.67 |
+| EV71 | Male (vs female) | 0.01 | 0.03 | 1.01 | 0.95 | 1.07 |
+| EV71 | Age 2-3 years (vs <1 year) | 0.35 | 0.03 | 1.41 | 1.33 | 1.50 |
+| EV71 | Age 4+ years (vs <1 year) | 0.73 | 0.04 | 2.08 | 1.93 | 2.24 |
+| EV71 | Severe (vs mild) | 1.96 | 0.08 | 7.08 | 6.01 | 8.34 |
+| CV-A16 | Intercept | 0.39 | 0.04 | 1.48 | 1.37 | 1.61 |
+| CV-A16 | Year | -0.18 | 0.00 | 0.84 | 0.83 | 0.84 |
+| CV-A16 | Male (vs female) | -0.05 | 0.02 | 0.95 | 0.90 | 0.99 |
+| CV-A16 | Age 2-3 years (vs <1 year) | 0.51 | 0.03 | 1.66 | 1.57 | 1.75 |
+| CV-A16 | Age 4+ years (vs <1 year) | 0.97 | 0.03 | 2.64 | 2.48 | 2.81 |
+| CV-A16 | Severe (vs mild) | -0.69 | 0.14 | 0.50 | 0.38 | 0.67 |
+
+<div style="page-break-after: always;"></div>
+
+**Table S9. Vaccine-era training-window sensitivity for ITS counterfactual summaries**
+
 | Endpoint and model | Year | Actual cases | Predicted cases | Lower 95% PI | Upper 95% PI | Difference | Percent change (%) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | All reported HFMD - Primary 2013-2016 linear | 2017 | 80344 | 104712 | 84388 | 129080 | -24368 | -23.27 |
@@ -284,12 +284,12 @@ Note: Deaths were identified from nonmissing death dates in the surveillance ext
 | Typed other enteroviruses - Primary 2013-2016 linear | 2019 | 2203 | 2985 | 2461 | 3883 | -782 | -26.20 |
 | Typed other enteroviruses - Sensitivity 2010-2016 quadratic | 2017 | 1745 | 2161 | 1701 | 2957 | -416 | -19.24 |
 | Typed other enteroviruses - Sensitivity 2010-2016 quadratic | 2018 | 2932 | 2603 | 1979 | 3928 | 329 | 12.63 |
-| Typed other enteroviruses - Sensitivity 2010-2016 quadratic | 2019 | 2203 | 3068 | 2302 | 5335 | -865 | -28.20 |
-
-<div style="page-break-after: always;"></div>
-
-**Table S10. COVID-19-period sensitivity using a pre-vaccine baseline for ITS counterfactual summaries**
-
+| Typed other enteroviruses - Sensitivity 2010-2016 quadratic | 2019 | 2203 | 3068 | 2302 | 5335 | -865 | -28.20 |
+
+<div style="page-break-after: always;"></div>
+
+**Table S10. COVID-19-period sensitivity using a pre-vaccine baseline for ITS counterfactual summaries**
+
 | Endpoint and model | Year | Actual cases | Predicted cases | Lower 95% PI | Upper 95% PI | Difference | Percent change (%) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | All reported HFMD - Pre-vaccine 2008-2015 linear | 2020 | 52712 | 445038 | 237865 | 832655 | -392326 | -88.16 |
@@ -307,7 +307,7 @@ Note: Deaths were identified from nonmissing death dates in the surveillance ext
 | Typed other enteroviruses - Pre-vaccine 2008-2015 linear | 2020 | 4122 | 10903 | 6416 | 18527 | -6781 | -62.19 |
 | Typed other enteroviruses - Pre-vaccine 2008-2015 linear | 2021 | 3128 | 15814 | 8951 | 27938 | -12686 | -80.22 |
 | Typed other enteroviruses - Pre-vaccine 2008-2015 linear | 2022 | 1412 | 22937 | 12468 | 42199 | -21525 | -93.84 |
-| Typed other enteroviruses - Pre-vaccine 2008-2015 linear | 2023 | 5186 | 33269 | 17342 | 63828 | -28083 | -84.41 |
-
-Note: This sensitivity analysis trained the COVID-19 counterfactual only on January 2008 to December 2015, before EV71 vaccine introduction, and projected it forward to 2020-2023 so that the COVID baseline did not include vaccine-era months.
+| Typed other enteroviruses - Pre-vaccine 2008-2015 linear | 2023 | 5186 | 33269 | 17342 | 63828 | -28083 | -84.41 |
+
+Note: This sensitivity analysis trained the COVID-19 counterfactual only on January 2008 to December 2015, before EV71 vaccine introduction, and projected it forward to 2020-2023 so that the COVID baseline did not include vaccine-era months.
 
